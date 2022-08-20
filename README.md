@@ -1,4 +1,4 @@
-## Minimum Spanning Trees using Kruskal’s Algorithm, with added heuristics Path Compression and Union by Rank
+# Minimum Spanning Trees using Kruskal’s Algorithm, with added heuristics Path Compression and Union by Rank
 
 This is a repository for my graduate 8650 Data Structures class project. Note that the Python code is written in a version of Python 2.
 

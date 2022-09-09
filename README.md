@@ -1,13 +1,21 @@
 # Minimum Spanning Trees using Kruskal’s Algorithm, with added heuristics Path Compression and Union by Rank
 
-This is a repository for my graduate 8650 Data Structures class project. Note that the Python code is written in a version of Python 2.
+This is a repository for my graduate 8650 Data Structures class project. 
 
 The full write-up may be found by clicking 8650ProjectWriteUp.pdf above, or by clicking [here](https://github.com/alanhahn07/8650minimumspanningtree/blob/main/8650ProjectWriteUp.pdf). The slide presentation given at the end of the course may be found by clicking 8650ProjectPresentationPrintable.pdf above, or by clicking [here](https://github.com/alanhahn07/8650minimumspanningtree/blob/main/8650ProjectPresentationPrintable.pdf).
 
 
-## Running the Code
+## Running the Code using the Jupyter Notebook
 
-The Python code may be found in the folder "Python and CSV Files" above, or by clickin [here](https://github.com/alanhahn07/8650minimumspanningtree/tree/main/Python%20and%20CSV%20Files). I recommend downloading the entire folder. The files UpdatedImplementation.py and NaiveImplementation.py are the two files that show the results of the two implementations; to run either in the command line, cd into the "Python and CSV Files" folder downloaded to your computer, then evaluate e.g. `python2 UpdatedImplementation.py` or `python2 NaiveImplementation.py` and view the output. 
+You may download 8650Project.ipynb along with the CSV file, soc-sign-bitcoinotc.csv, into the same folder, and simply run the jupyter notebook.
+
+## Running the Code using the terminal
+
+Note that this repository is being worked on. The project was originally written in a version of Python 2, and I am in the process of converting it to Python 3. At the moment, only the Jupyter Noteboook has been converted, while the .py files are in Python 2. 
+
+The Python code may be found in the folder "Python and CSV Files" above, or by clickin [here](https://github.com/alanhahn07/8650minimumspanningtree/tree/main/Python%20and%20CSV%20Files). I recommend downloading the entire folder. 
+
+The files UpdatedImplementation.py and NaiveImplementation.py are the two files that show the results of the two implementations; to run either in the command line, cd into the "Python and CSV Files" folder downloaded to your computer, then evaluate e.g. `python2 UpdatedImplementation.py` or `python2 NaiveImplementation.py` and view the output. 
 
 The output for `python2 UpdatedImplementation.py` should look similar to the fowllowing: 
 

@@ -13,7 +13,7 @@ You may download 8650Project.ipynb along with the CSV file, soc-sign-bitcoinotc.
 
 Note that this repository is being worked on. The project was originally written in a version of Python 2, and I am in the process of converting it to Python 3. At the moment, only the Jupyter Noteboook has been converted, while the .py files are in Python 2. 
 
-The Python code may be found in the folder "Python and CSV Files" above, or by clickin [here](https://github.com/alanhahn07/8650minimumspanningtree/tree/main/Python%20and%20CSV%20Files). I recommend downloading the entire folder. 
+The Python code may be found in the folder "Python and CSV Files" above, or by clicking [here](https://github.com/alanhahn07/8650minimumspanningtree/tree/main/Python%20and%20CSV%20Files). I recommend downloading the entire folder. 
 
 The files UpdatedImplementation.py and NaiveImplementation.py are the two files that show the results of the two implementations; to run either in the command line, cd into the "Python and CSV Files" folder downloaded to your computer, then evaluate e.g. `python2 UpdatedImplementation.py` or `python2 NaiveImplementation.py` and view the output. 
 
